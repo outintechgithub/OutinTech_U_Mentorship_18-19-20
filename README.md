@@ -8,7 +8,7 @@ Through an eight-week-long growth workshop, mentors and mentees work closely tog
 
 For more information: https://outintech.com/u/mentorship/
 
-![](images/mentorship_1.jpg)
-![](images/mentorship_2.png)
-![](images/mentorship_3.jpg)
-![](images/mentorship_4.jpg)
+![](images/mentorship_one.jpg)
+![](images/mentorship_two.png)
+![](images/mentorship_three.jpg)
+![](images/mentorship_four.jpg)
