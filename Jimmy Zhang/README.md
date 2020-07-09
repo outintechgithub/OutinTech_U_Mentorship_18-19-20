@@ -1,5 +1,5 @@
-Project Name: Around the World with OiT
+Project Name: A study of Citi Bike utilization across NYC zip Codes
 
-Project Description:
+Project Description: Determine which zip codes Citi Bike should consider adding additional capacity in.
 
-Link: https://prezi.com/view/ffmdpl3xe8AwwVV8g0Ox/
+
