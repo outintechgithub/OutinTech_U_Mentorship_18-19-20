@@ -6,7 +6,9 @@ Out in Tech U’s Mentorship Program empowers and encourages diversity in the te
 
 Through an eight-week-long growth workshop, mentors and mentees work closely together to create fun and inspiring projects, visit cool tech companies, and build lasting relationships based on mutual respect and interests.
 
-For more information: https://outintech.com/u/mentorship/
+Check out the Spring 2020 Out in Tech U’s Mentorship Program Yearbook: https://www.canva.com/design/DAD6rmvVBgY/sUxbPhVC3kVfI117aIAMoA/view?utm_content=DAD6rmvVBgY&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+
+For more information about the Out in Tech U’s Mentorship Program: https://outintech.com/u/mentorship/
 
 ![](images/mentorship_one.jpg)
 ![](images/mentorship_two.jpg)
