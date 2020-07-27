@@ -1,3 +1,4 @@
+Project Name: Data Science for Public Policy Analysis 
 
-hello
+Project Description: Clean and analyze public data.
 
